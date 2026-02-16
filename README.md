@@ -167,7 +167,7 @@ These features can help business analysts design retention strategies.<br>
 
 1. Data Loading  <br>
 2. Data Understanding  <br>
-3. Data Cleaning  <br>
+3. Data Cleaning <br>
 4. EDA  <br>
 5.Train-Test Split <br>  
 6.Encoding & Scaling <br>   
